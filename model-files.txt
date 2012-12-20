@@ -26,7 +26,8 @@ system/lib/libthermal_mitigation_fusion.so
 system/lib/libthermal_mitigation.so
 
 # Blobs specific to i_atnt
-# (none)
+system/bin/init.qcom.bt.sh
+system/etc/firmware/BCM4330B1_002.001.003.0243.0308.hcd
 
 # These files contain unchecked references to partition names
 system/etc/init.qcom.mdm_links.sh
