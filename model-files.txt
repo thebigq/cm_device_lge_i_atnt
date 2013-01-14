@@ -1,5 +1,5 @@
 # Common blobs that differ
-# Some of these may be compatible acress devices
+# Some of these may be compatible across devices
 system/bin/ami304d
 system/bin/ks
 system/bin/mpdecision
